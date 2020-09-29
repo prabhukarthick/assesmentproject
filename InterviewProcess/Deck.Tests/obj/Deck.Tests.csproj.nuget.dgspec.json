@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj": {}
+    "D:\\assesmentproject\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj": {}
   },
   "projects": {
-    "D:\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj": {
+    "D:\\assesmentproject\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj",
+        "projectUniqueName": "D:\\assesmentproject\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj",
         "projectName": "Deck.Tests",
-        "projectPath": "D:\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj",
+        "projectPath": "D:\\assesmentproject\\InterviewProcess\\Deck.Tests\\Deck.Tests.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "D:\\InterviewProcess\\Deck.Tests\\obj\\",
+        "outputPath": "D:\\assesmentproject\\InterviewProcess\\Deck.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj": {
-                "projectPath": "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj"
+              "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj": {
+                "projectPath": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj"
               }
             }
           }
@@ -45,19 +45,27 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[1.3.0, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.4.1, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
@@ -79,14 +87,14 @@
         }
       }
     },
-    "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj": {
+    "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
+        "projectUniqueName": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
         "projectName": "DeckProgram-RIM",
-        "projectPath": "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
+        "projectPath": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "D:\\InterviewProcess\\DeckProgram-RIM\\obj\\",
+        "outputPath": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

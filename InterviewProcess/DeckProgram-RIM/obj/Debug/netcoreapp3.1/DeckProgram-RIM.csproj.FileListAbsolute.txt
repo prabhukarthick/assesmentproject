@@ -10,3 +10,16 @@ D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.cspr
 D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.dll
 D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.pdb
 D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.genruntimeconfig.cache
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.exe
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.deps.json
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.runtimeconfig.json
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.runtimeconfig.dev.json
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.dll
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.pdb
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.AssemblyInfoInputs.cache
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.AssemblyInfo.cs
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.csproj.CoreCompileInputs.cache
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.dll
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.pdb
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.genruntimeconfig.cache
+D:\assesmentproject\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.csprojAssemblyReference.cache

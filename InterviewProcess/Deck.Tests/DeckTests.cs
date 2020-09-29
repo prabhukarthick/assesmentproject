@@ -1,4 +1,5 @@
 using DeckProgram_RIM;
+using DeckProgram_RIM.Initial;
 using System;
 using System.Linq;
 using Xunit;
@@ -8,15 +9,26 @@ namespace Deck.Tests
     public class DeckTests
     {
         [Fact]
-        public void test_scenario_6()
+        public void test_scenario_8()
         {
             //Arrange
-            string input1 = "2,K,3,2";
+            string input1 = " K, J, 3, K";
             //Act
             var expectedResult = new DeckProgram().InitiateGame(input1);
             //Assert
-            Assert.Equal(7 , expectedResult);
+            Assert.NotEqual(3, expectedResult);
         }
+
+        //[Fact]
+        //public void test_scenario_6()
+        //{
+        //    //Arrange
+        //    string input1 = "2,K,3,2";
+        //    //Act
+        //    var expectedResult = new DeckProgram().InitiateGame(input1);
+        //    //Assert
+        //    Assert.Equal(7 , expectedResult);
+        //}
 
 
         [Fact]

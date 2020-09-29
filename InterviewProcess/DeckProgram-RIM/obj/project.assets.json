@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
+      "projectUniqueName": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
       "projectName": "DeckProgram-RIM",
-      "projectPath": "D:\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
+      "projectPath": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\DeckProgram-RIM.csproj",
       "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-      "outputPath": "D:\\InterviewProcess\\DeckProgram-RIM\\obj\\",
+      "outputPath": "D:\\assesmentproject\\InterviewProcess\\DeckProgram-RIM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
