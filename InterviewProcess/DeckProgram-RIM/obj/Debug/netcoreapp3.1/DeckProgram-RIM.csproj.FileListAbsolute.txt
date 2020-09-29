@@ -1,0 +1,12 @@
+D:\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.exe
+D:\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.deps.json
+D:\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.runtimeconfig.json
+D:\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.runtimeconfig.dev.json
+D:\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.dll
+D:\InterviewProcess\DeckProgram-RIM\bin\Debug\netcoreapp3.1\DeckProgram-RIM.pdb
+D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.AssemblyInfoInputs.cache
+D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.AssemblyInfo.cs
+D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.csproj.CoreCompileInputs.cache
+D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.dll
+D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.pdb
+D:\InterviewProcess\DeckProgram-RIM\obj\Debug\netcoreapp3.1\DeckProgram-RIM.genruntimeconfig.cache
