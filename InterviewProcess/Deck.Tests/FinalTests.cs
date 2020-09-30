@@ -167,5 +167,18 @@ namespace Deck.Tests
             exceptedResult = new GamerConsole(input).StartDeckGame();
             Assert.Equal(25, exceptedResult);
         }
+
+
+        [Fact]
+        public void start_Game_Console_Test_With_K()
+        {
+            string input = "K, 3, K";
+            //var exceptedResult = new GamerConsole(input).StartDeckGame();
+            //Assert.Equal(0, exceptedResult);
+
+            input = " 4, K, 3, K, 5, K, Q";
+            var exceptedResult = new GamerConsole(input).StartDeckGame();
+            Assert.Equal(9, exceptedResult);
+        }
     }
 }

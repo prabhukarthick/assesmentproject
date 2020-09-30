@@ -7,6 +7,7 @@ namespace DeckProgram_RIM.Final
 {
     internal class NumberTypeCard : CardContext, ICardStrategy
     {
+       
         private readonly int _value;
 
         public NumberTypeCard(int value)

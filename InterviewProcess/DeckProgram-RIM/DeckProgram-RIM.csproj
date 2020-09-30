@@ -6,4 +6,8 @@
     <RootNamespace>DeckProgram_RIM</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Final\NewFolder\" />
+  </ItemGroup>
+
 </Project>
