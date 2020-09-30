@@ -13,12 +13,13 @@ namespace DeckProgram_RIM.Final
         {
             _value = (value > 1 && value < 10) ?
                     value : throw new Exception("only numbers between 2 to 9 accepted.");
+            stateValue = _value.ToString();
         }
 
-        public CardContext Apply(ICardStrategy currentState)
+        public override CardContext Apply(ICardStrategy currentState)
         {
-            PreviousScore = currentState.PreviousScore;
-            PreviousScore += _value;
+            GameScore = currentState.GameScore;
+            GameScore += _value;
             return this;
         }
     }

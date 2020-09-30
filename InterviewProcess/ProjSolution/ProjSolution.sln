@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckProgram-RIM", "..\DeckProgram-RIM\DeckProgram-RIM.csproj", "{3EE48BFC-61E2-4BA9-93AF-83273E4B7D62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deck.Tests", "..\Deck.Tests\Deck.Tests.csproj", "{05F9EF7C-05D6-4DEC-A1CF-D1225A586AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE48BFC-61E2-4BA9-93AF-83273E4B7D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE48BFC-61E2-4BA9-93AF-83273E4B7D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE48BFC-61E2-4BA9-93AF-83273E4B7D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE48BFC-61E2-4BA9-93AF-83273E4B7D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F9EF7C-05D6-4DEC-A1CF-D1225A586AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F9EF7C-05D6-4DEC-A1CF-D1225A586AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F9EF7C-05D6-4DEC-A1CF-D1225A586AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F9EF7C-05D6-4DEC-A1CF-D1225A586AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C84D768-8A8D-47EF-8A82-487E83060DB7}
+	EndGlobalSection
+EndGlobal

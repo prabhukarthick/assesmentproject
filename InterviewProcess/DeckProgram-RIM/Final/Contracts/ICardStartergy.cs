@@ -6,7 +6,7 @@ namespace DeckProgram_RIM.Final.Contracts
 {
     public interface ICardStrategy
     {
-        public int PreviousScore { get; set; }
+        public int GameScore { get; set; }
         public CardContext Apply(ICardStrategy currentState);
     }
 }

@@ -151,15 +151,21 @@ namespace Deck.Tests
         [Fact]
         public void start_Game_Console_Test_With_Q()
         {
-            string input = "Q,Q,2";
+            string input = "Q, Q, 2";
             var exceptedResult = new GamerConsole(input).StartDeckGame();
-            Assert.Equal(3, exceptedResult);
+            Assert.Equal(4, exceptedResult);
 
-            //input = "A, 3, J, J";
-            //exceptedResult = new GamerConsole(input).StartDeckGame();
-            //Assert.Equal(0, exceptedResult);
+            input = "Q, 3, J, J,Q";
+            exceptedResult = new GamerConsole(input).StartDeckGame();
+            Assert.Equal(0, exceptedResult);
+
+            input = "Q, 3, J, J,5";
+            exceptedResult = new GamerConsole(input).StartDeckGame();
+            Assert.Equal(5, exceptedResult);
+
+            input = " 9, A, 3, Q, Q, 2";
+            exceptedResult = new GamerConsole(input).StartDeckGame();
+            Assert.Equal(25, exceptedResult);
         }
-
-
     }
 }
